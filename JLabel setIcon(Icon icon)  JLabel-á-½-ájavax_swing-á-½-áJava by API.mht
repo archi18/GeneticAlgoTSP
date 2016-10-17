@@ -1,0 +1,2579 @@
+From: "Saved by Windows Internet Explorer 8"
+Subject: =?Windows-1252?Q?JLabel:_setIcon=28Icon_icon=29_:_JLabel=A0=AB=A0javax.?=
+	=?Windows-1252?Q?swing=A0=AB=A0Java_by_API?=
+Date: Mon, 3 Jan 2011 13:58:32 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CBAB4E.4E929860"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7600.16385
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CBAB4E.4E929860
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetIconIconicon.htm
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>JLabel: setIcon(Icon icon) : =
+JLabel=C2=A0=C2=AB=C2=A0javax.swing=C2=A0=C2=AB=C2=A0Java by API</TITLE>
+<META content=3D"text/html; charset=3DUTF-8" http-equiv=3Dcontent-type>
+<META content=3Dtext/css http-equiv=3Dcontent-style-type>
+<META name=3Dauthor content=3D"Demo Source and Support Ltd.">
+<META name=3Dcopyright content=3D"2006 Demo Source and Support Ltd.">
+<META name=3Ddescription=20
+content=3D" JLabel: setIcon(Icon icon) : =
+JLabel&nbsp;=C2=AB&nbsp;javax.swing&nbsp;=C2=AB&nbsp;Java by API ">
+<META name=3Dkeywords=20
+content=3D" JLabel: setIcon(Icon icon) : =
+JLabel&nbsp;=C2=AB&nbsp;javax.swing&nbsp;=C2=AB&nbsp;Java by API "><LINK =
+
+rel=3Dstylesheet type=3Dtext/css =
+href=3D"http://www.java2s.com/style/java2s.css"><LINK=20
+rel=3D"shortcut icon" href=3D"http://www.java2s.com/style/favicon.ico">
+<META name=3DGENERATOR content=3D"MSHTML 8.00.7600.16490"></HEAD>
+<BODY>
+<H1>JLabel: setIcon(Icon icon) : =
+JLabel&nbsp;=C2=AB&nbsp;javax.swing&nbsp;=C2=AB&nbsp;Java=20
+by API</H1>
+<TABLE border=3D0 width=3D1024>
+  <TBODY>
+  <TR align=3Dleft>
+    <TD vAlign=3Dtop width=3D140 align=3Dleft>
+      <TABLE class=3DleftBarTable cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR>
+          <TD><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/CatalogJavaAPI.htm">Java by=20
+            API</A></TD></TR>
+        <TR>
+          <TD>
+            <TABLE class=3DleftBarFolderTable>
+              <TBODY>
+              <TR>
+                <TD vAlign=3Dtop>1.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/com.sun.image.codec.jpeg/Catal=
+ogcom.sun.image.codec.jpeg.htm">com.sun.image.codec.jpeg</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>2.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.applet/Catalogjava.applet=
+.htm">java.applet</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>3.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.awt/Catalogjava.awt.htm">=
+java.awt</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>4.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.awt.datatransfer/Catalogj=
+ava.awt.datatransfer.htm">java.awt.datatransfer</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>5.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.awt.dnd/Catalogjava.awt.d=
+nd.htm">java.awt.dnd</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>6.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.awt.event/Catalogjava.awt=
+.event.htm">java.awt.event</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>7.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.awt.font/Catalogjava.awt.=
+font.htm">java.awt.font</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>8.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.awt.geom/Catalogjava.awt.=
+geom.htm">java.awt.geom</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>9.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.awt.im.spi/Catalogjava.aw=
+t.im.spi.htm">java.awt.im.spi</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>10.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.awt.image/Catalogjava.awt=
+.image.htm">java.awt.image</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>11.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.awt.print/Catalogjava.awt=
+.print.htm">java.awt.print</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>12.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.beans/Catalogjava.beans.h=
+tm">java.beans</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>13.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.beans.beancontext/Catalog=
+java.beans.beancontext.htm">java.beans.beancontext</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>14.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.io/Catalogjava.io.htm">ja=
+va.io</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>15.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.lang/Catalogjava.lang.htm=
+">java.lang</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>16.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.lang.annotation/Catalogja=
+va.lang.annotation.htm">java.lang.annotation</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>17.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.lang.instrument/Catalogja=
+va.lang.instrument.htm">java.lang.instrument</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>18.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.lang.management/Catalogja=
+va.lang.management.htm">java.lang.management</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>19.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.lang.ref/Catalogjava.lang=
+.ref.htm">java.lang.ref</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>20.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.lang.reflect/Catalogjava.=
+lang.reflect.htm">java.lang.reflect</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>21.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.math/Catalogjava.math.htm=
+">java.math</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>22.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.net/Catalogjava.net.htm">=
+java.net</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>23.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.nio/Catalogjava.nio.htm">=
+java.nio</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>24.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.nio.channels/Catalogjava.=
+nio.channels.htm">java.nio.channels</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>25.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.nio.charset/Catalogjava.n=
+io.charset.htm">java.nio.charset</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>26.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.rmi.dgc/Catalogjava.rmi.d=
+gc.htm">java.rmi.dgc</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>27.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.rmi.server/Catalogjava.rm=
+i.server.htm">java.rmi.server</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>28.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.security/Catalogjava.secu=
+rity.htm">java.security</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>29.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.security.cert/Catalogjava=
+.security.cert.htm">java.security.cert</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>30.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.security.spec/Catalogjava=
+.security.spec.htm">java.security.spec</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>31.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.sql/Catalogjava.sql.htm">=
+java.sql</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>32.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.text/Catalogjava.text.htm=
+">java.text</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>33.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.text.spi/Catalogjava.text=
+.spi.htm">java.text.spi</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>34.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.util/Catalogjava.util.htm=
+">java.util</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>35.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.util.concurrent/Catalogja=
+va.util.concurrent.htm">java.util.concurrent</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>36.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.util.concurrent.atomic/Ca=
+talogjava.util.concurrent.atomic.htm">java.util.concurrent.atomic</A></TD=
+></TR>
+              <TR>
+                <TD vAlign=3Dtop>37.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.util.concurrent.locks/Cat=
+alogjava.util.concurrent.locks.htm">java.util.concurrent.locks</A></TD></=
+TR>
+              <TR>
+                <TD vAlign=3Dtop>38.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.util.jar/Catalogjava.util=
+.jar.htm">java.util.jar</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>39.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.util.logging/Catalogjava.=
+util.logging.htm">java.util.logging</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>40.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.util.prefs/Catalogjava.ut=
+il.prefs.htm">java.util.prefs</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>41.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.util.regex/Catalogjava.ut=
+il.regex.htm">java.util.regex</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>42.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.util.spi/Catalogjava.util=
+.spi.htm">java.util.spi</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>43.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/java.util.zip/Catalogjava.util=
+.zip.htm">java.util.zip</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>44.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.accessibility/Catalogjav=
+ax.accessibility.htm">javax.accessibility</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>45.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.activation/Catalogjavax.=
+activation.htm">javax.activation</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>46.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.annotation.security/Cata=
+logjavax.annotation.security.htm">javax.annotation.security</A></TD></TR>=
+
+              <TR>
+                <TD vAlign=3Dtop>47.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.comm/Catalogjavax.comm.h=
+tm">javax.comm</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>48.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.crypto/Catalogjavax.cryp=
+to.htm">javax.crypto</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>49.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.crypto.spec/Catalogjavax=
+.crypto.spec.htm">javax.crypto.spec</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>50.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.ejb/Catalogjavax.ejb.htm=
+">javax.ejb</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>51.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.imageio/Catalogjavax.ima=
+geio.htm">javax.imageio</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>52.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.imageio.event/Catalogjav=
+ax.imageio.event.htm">javax.imageio.event</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>53.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.jws/Catalogjavax.jws.htm=
+">javax.jws</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>54.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.mail/Catalogjavax.mail.h=
+tm">javax.mail</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>55.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.mail.internet/Catalogjav=
+ax.mail.internet.htm">javax.mail.internet</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>56.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.media.jai/Catalogjavax.m=
+edia.jai.htm">javax.media.jai</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>57.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.microedition.io/Catalogj=
+avax.microedition.io.htm">javax.microedition.io</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>58.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.microedition.lcdui/Catal=
+ogjavax.microedition.lcdui.htm">javax.microedition.lcdui</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>59.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.microedition.media/Catal=
+ogjavax.microedition.media.htm">javax.microedition.media</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>60.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.microedition.media.contr=
+ol/Catalogjavax.microedition.media.control.htm">javax.microedition.media.=
+control</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>61.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.microedition.midlet/Cata=
+logjavax.microedition.midlet.htm">javax.microedition.midlet</A></TD></TR>=
+
+              <TR>
+                <TD vAlign=3Dtop>62.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.microedition.pim/Catalog=
+javax.microedition.pim.htm">javax.microedition.pim</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>63.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.microedition.rms/Catalog=
+javax.microedition.rms.htm">javax.microedition.rms</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>64.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.naming/Catalogjavax.nami=
+ng.htm">javax.naming</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>65.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.naming.directory/Catalog=
+javax.naming.directory.htm">javax.naming.directory</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>66.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.naming.event/Catalogjava=
+x.naming.event.htm">javax.naming.event</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>67.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.naming.ldap/Catalogjavax=
+.naming.ldap.htm">javax.naming.ldap</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>68.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.naming.spi/Catalogjavax.=
+naming.spi.htm">javax.naming.spi</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>69.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.net/Catalogjavax.net.htm=
+">javax.net</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>70.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.net.ssl/Catalogjavax.net=
+.ssl.htm">javax.net.ssl</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>71.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.persistence/Catalogjavax=
+.persistence.htm">javax.persistence</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>72.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.print/Catalogjavax.print=
+.htm">javax.print</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>73.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.print.attribute/Catalogj=
+avax.print.attribute.htm">javax.print.attribute</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>74.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.print.attribute.standard=
+/Catalogjavax.print.attribute.standard.htm">javax.print.attribute.standar=
+d</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>75.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.print.event/Catalogjavax=
+.print.event.htm">javax.print.event</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>76.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.script/Catalogjavax.scri=
+pt.htm">javax.script</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>77.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.servlet/Catalogjavax.ser=
+vlet.htm">javax.servlet</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>78.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.servlet.http/Catalogjava=
+x.servlet.http.htm">javax.servlet.http</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>79.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.sound.midi/Catalogjavax.=
+sound.midi.htm">javax.sound.midi</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>80.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.sound.sampled/Catalogjav=
+ax.sound.sampled.htm">javax.sound.sampled</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>81.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.sql/Catalogjavax.sql.htm=
+">javax.sql</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>82.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.sql.rowset/Catalogjavax.=
+sql.rowset.htm">javax.sql.rowset</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>83.&nbsp;</TD>
+                <TD><B>javax.swing</B></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>84.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.border/Catalogjava=
+x.swing.border.htm">javax.swing.border</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>85.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.colorchooser/Catal=
+ogjavax.swing.colorchooser.htm">javax.swing.colorchooser</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>86.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.event/Catalogjavax=
+.swing.event.htm">javax.swing.event</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>87.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.filechooser/Catalo=
+gjavax.swing.filechooser.htm">javax.swing.filechooser</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>88.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.plaf.basic/Catalog=
+javax.swing.plaf.basic.htm">javax.swing.plaf.basic</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>89.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.plaf.metal/Catalog=
+javax.swing.plaf.metal.htm">javax.swing.plaf.metal</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>90.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.plaf.synth/Catalog=
+javax.swing.plaf.synth.htm">javax.swing.plaf.synth</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>91.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.table/Catalogjavax=
+.swing.table.htm">javax.swing.table</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>92.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.text/Catalogjavax.=
+swing.text.htm">javax.swing.text</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>93.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.text.html/Catalogj=
+avax.swing.text.html.htm">javax.swing.text.html</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>94.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.text.html.parser/C=
+atalogjavax.swing.text.html.parser.htm">javax.swing.text.html.parser</A><=
+/TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>95.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.text.rtf/Catalogja=
+vax.swing.text.rtf.htm">javax.swing.text.rtf</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>96.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.tree/Catalogjavax.=
+swing.tree.htm">javax.swing.tree</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>97.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing.undo/Catalogjavax.=
+swing.undo.htm">javax.swing.undo</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>98.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.tools/Catalogjavax.tools=
+.htm">javax.tools</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>99.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.transaction/Catalogjavax=
+.transaction.htm">javax.transaction</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>100.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml/Catalogjavax.xml.htm=
+">javax.xml</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>101.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.bind/Catalogjavax.xm=
+l.bind.htm">javax.xml.bind</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>102.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.bind.annotation/Cata=
+logjavax.xml.bind.annotation.htm">javax.xml.bind.annotation</A></TD></TR>=
+
+              <TR>
+                <TD vAlign=3Dtop>103.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.crypto.dsig/Catalogj=
+avax.xml.crypto.dsig.htm">javax.xml.crypto.dsig</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>104.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.crypto.dsig.keyinfo/=
+Catalogjavax.xml.crypto.dsig.keyinfo.htm">javax.xml.crypto.dsig.keyinfo</=
+A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>105.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.namespace/Catalogjav=
+ax.xml.namespace.htm">javax.xml.namespace</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>106.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.parsers/Catalogjavax=
+.xml.parsers.htm">javax.xml.parsers</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>107.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.soap/Catalogjavax.xm=
+l.soap.htm">javax.xml.soap</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>108.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.stream/Catalogjavax.=
+xml.stream.htm">javax.xml.stream</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>109.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.stream.events/Catalo=
+gjavax.xml.stream.events.htm">javax.xml.stream.events</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>110.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.transform/Catalogjav=
+ax.xml.transform.htm">javax.xml.transform</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>111.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.transform.dom/Catalo=
+gjavax.xml.transform.dom.htm">javax.xml.transform.dom</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>112.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.transform.stream/Cat=
+alogjavax.xml.transform.stream.htm">javax.xml.transform.stream</A></TD></=
+TR>
+              <TR>
+                <TD vAlign=3Dtop>113.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.validation/Catalogja=
+vax.xml.validation.htm">javax.xml.validation</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>114.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.ws/Catalogjavax.xml.=
+ws.htm">javax.xml.ws</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>115.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.xml.xpath/Catalogjavax.x=
+ml.xpath.htm">javax.xml.xpath</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>116.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/junit.extensions/Catalogjunit.=
+extensions.htm">junit.extensions</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>117.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/junit.framework/Catalogjunit.f=
+ramework.htm">junit.framework</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>118.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/junit.textui/Catalogjunit.text=
+ui.htm">junit.textui</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>119.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.apache.commons.lang/Catalo=
+gorg.apache.commons.lang.htm">org.apache.commons.lang</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>120.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.apache.commons.lang.builde=
+r/Catalogorg.apache.commons.lang.builder.htm">org.apache.commons.lang.bui=
+lder</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>121.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.apache.commons.lang.except=
+ion/Catalogorg.apache.commons.lang.exception.htm">org.apache.commons.lang=
+.exception</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>122.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.apache.commons.lang.time/C=
+atalogorg.apache.commons.lang.time.htm">org.apache.commons.lang.time</A><=
+/TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>123.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.apache.commons.logging/Cat=
+alogorg.apache.commons.logging.htm">org.apache.commons.logging</A></TD></=
+TR>
+              <TR>
+                <TD vAlign=3Dtop>124.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.apache.commons.math/Catalo=
+gorg.apache.commons.math.htm">org.apache.commons.math</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>125.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.jface.action/Catal=
+ogorg.eclipse.jface.action.htm">org.eclipse.jface.action</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>126.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.jface.dialogs/Cata=
+logorg.eclipse.jface.dialogs.htm">org.eclipse.jface.dialogs</A></TD></TR>=
+
+              <TR>
+                <TD vAlign=3Dtop>127.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.jface.operation/Ca=
+talogorg.eclipse.jface.operation.htm">org.eclipse.jface.operation</A></TD=
+></TR>
+              <TR>
+                <TD vAlign=3Dtop>128.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.jface.viewers/Cata=
+logorg.eclipse.jface.viewers.htm">org.eclipse.jface.viewers</A></TD></TR>=
+
+              <TR>
+                <TD vAlign=3Dtop>129.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.jface.window/Catal=
+ogorg.eclipse.jface.window.htm">org.eclipse.jface.window</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>130.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.jface.wizard/Catal=
+ogorg.eclipse.jface.wizard.htm">org.eclipse.jface.wizard</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>131.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.swt/Catalogorg.ecl=
+ipse.swt.htm">org.eclipse.swt</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>132.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.swt.browser/Catalo=
+gorg.eclipse.swt.browser.htm">org.eclipse.swt.browser</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>133.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.swt.custom/Catalog=
+org.eclipse.swt.custom.htm">org.eclipse.swt.custom</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>134.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.swt.dnd/Catalogorg=
+.eclipse.swt.dnd.htm">org.eclipse.swt.dnd</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>135.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.swt.events/Catalog=
+org.eclipse.swt.events.htm">org.eclipse.swt.events</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>136.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.swt.graphics/Catal=
+ogorg.eclipse.swt.graphics.htm">org.eclipse.swt.graphics</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>137.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.swt.layout/Catalog=
+org.eclipse.swt.layout.htm">org.eclipse.swt.layout</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>138.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.swt.ole.win32/Cata=
+logorg.eclipse.swt.ole.win32.htm">org.eclipse.swt.ole.win32</A></TD></TR>=
+
+              <TR>
+                <TD vAlign=3Dtop>139.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.swt.printing/Catal=
+ogorg.eclipse.swt.printing.htm">org.eclipse.swt.printing</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>140.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.swt.program/Catalo=
+gorg.eclipse.swt.program.htm">org.eclipse.swt.program</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>141.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.eclipse.swt.widgets/Catalo=
+gorg.eclipse.swt.widgets.htm">org.eclipse.swt.widgets</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>142.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.junit/Catalogorg.junit.htm=
+">org.junit</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>143.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.w3c.dom/Catalogorg.w3c.dom=
+.htm">org.w3c.dom</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>144.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.xml.sax/Catalogorg.xml.sax=
+.htm">org.xml.sax</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>145.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/org.xml.sax.helpers/Catalogorg=
+.xml.sax.helpers.htm">org.xml.sax.helpers</A></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop>146.&nbsp;</TD>
+                <TD><A=20
+                  =
+href=3D"http://www.java2s.com/Code/JavaAPI/sun.audio/Catalogsun.audio.htm=
+">sun.audio</A></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/Java/CatalogJava.htm">Java</A></TD></T=
+R>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/Java/CatalogJava.htm">Java=20
+            Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Open-Source/Java-Document/CatalogJava-Docum=
+ent.htm">Java=20
+            Source Code / Java Documentation</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Open-Source/Java/CatalogJava.htm">Java=20
+            Open Source</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            href=3D"http://www.java2s.com/Code/Jar/CatalogJar.htm">Jar =
+File=20
+            Download</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Article/Java/CatalogJava.htm">Java=20
+            Articles</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Product/Java/CatalogJava.htm">Java=20
+            Products</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Article-Tutorial/Photoshop/CatalogPhotoshop=
+.htm">Photoshop=20
+            Tutorials</A></TD></TR>
+        <TR>
+          <TD class=3DleftNewLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Article-Tutorial/Maya/CatalogMaya.htm">Maya=
+=20
+            Tutorials</A></TD></TR>
+        <TR>
+          <TD class=3DleftNewLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Article-Tutorial/Flash/CatalogFlash.htm">Fl=
+ash=20
+            Tutorials</A></TD></TR>
+        <TR>
+          <TD class=3DleftNewLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Article-Tutorial/3ds-Max/Catalog3ds-Max.htm=
+">3ds-Max=20
+            Tutorials</A></TD></TR>
+        <TR>
+          <TD class=3DleftNewLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Article-Tutorial/Illustrator/CatalogIllustr=
+ator.htm">Illustrator=20
+            Tutorials</A></TD></TR>
+        <TR>
+          <TD class=3DleftNewLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Article-Tutorial/GIMP/CatalogGIMP.htm">GIMP=
+=20
+            Tutorials</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/CSharp/CatalogCSharp.htm">C# / C=20
+            Sharp</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/CSharp/CatalogCSharp.htm">C# /=20
+            CSharp Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Open-Source/CSharp/CatalogCSharp.htm">C#=20
+            / CSharp Open Source</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/ASP/CatalogASP.htm">ASP.Net</A></TD></=
+TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/ASP.NET/CatalogASP.NET.htm">ASP.NE=
+T=20
+            Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaScript/CatalogJavaScript.htm">Java=
+Script=20
+            DHTML</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/JavaScript/CatalogJavaScript.htm">=
+JavaScript=20
+            Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaScriptReference/CatalogJavaScriptR=
+eference.htm">JavaScript=20
+            Reference</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/HTMLCSS/CatalogHTMLCSS.htm">HTML /=20
+            CSS</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/HTMLCSSReference/CatalogHTMLCSSReferen=
+ce.htm">HTML=20
+            CSS Reference</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            href=3D"http://www.java2s.com/Code/C/CatalogC.htm">C /=20
+ANSI-C</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            href=3D"http://www.java2s.com/Tutorial/C/CatalogC.htm">C=20
+          Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/Cpp/CatalogCpp.htm">C++</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/Cpp/CatalogCpp.htm">C++=20
+            Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/Ruby/CatalogRuby.htm">Ruby</A></TD></T=
+R>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/Php/CatalogPhp.htm">PHP</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/Python/CatalogPython.htm">Python</A></=
+TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/Python/CatalogPython.htm">Python=20
+            Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Open-Source/Python/CatalogPython.htm">Pytho=
+n=20
+            Open Source</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/SQLServer/CatalogSQLServer.htm">SQL=20
+            Server / T-SQL</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/SQLServer/CatalogSQLServer.htm">SQ=
+L=20
+            Server / T-SQL Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/Oracle/CatalogOracle.htm">Oracle PL=20
+            / SQL</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/Oracle/CatalogOracle.htm">Oracle=20
+            PL/SQL Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/PostgreSQL/CatalogPostgreSQL.htm">Post=
+greSQL</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            href=3D"http://www.java2s.com/Code/SQL/CatalogSQL.htm">SQL / =
+
+          MySQL</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/MySQL/CatalogMySQL.htm">MySQL=20
+            Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/VB/CatalogVB.htm">VB.Net</A></TD></TR>=
+
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/VB/CatalogVB.htm">VB.Net=20
+            Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/Flash-Flex-ActionScript/CatalogFlash-F=
+lex-ActionScript.htm">Flash=20
+            / Flex / ActionScript</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/VBA-Excel-Access-Word/CatalogVBA-Excel=
+-Access-Word.htm">VBA=20
+            / Excel / Access / Word</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Code/XML/CatalogXML.htm">XML</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/XML/CatalogXML.htm">XML=20
+            Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/Microsoft-Office-PowerPoint-2007/C=
+atalogMicrosoft-Office-PowerPoint-2007.htm">Microsoft=20
+            Office PowerPoint 2007 Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/Microsoft-Office-Excel-2007/Catalo=
+gMicrosoft-Office-Excel-2007.htm">Microsoft=20
+            Office Excel 2007 Tutorial</A></TD></TR>
+        <TR>
+          <TD class=3DleftLangCell><A=20
+            =
+href=3D"http://www.java2s.com/Tutorial/Microsoft-Office-Word-2007/Catalog=
+Microsoft-Office-Word-2007.htm">Microsoft=20
+            Office Word 2007 Tutorial</A></TD></TR></TBODY></TABLE></TD>
+    <TD width=3D2></TD>
+    <TD vAlign=3Dtop>
+      <SCRIPT language=3Djavascript=20
+      =
+src=3D"http://media.fastclick.net/w/get.media?sid=3D24280&amp;m=3D1&amp;t=
+p=3D5&amp;d=3Dj&amp;t=3Dn"></SCRIPT>
+      <NOSCRIPT><A=20
+      =
+href=3D"http://media.fastclick.net/w/click.here?sid=3D24280&amp;m=3D1&amp=
+;c=3D1"=20
+      target=3D_blank><IMG border=3D1=20
+      =
+src=3D"http://media.fastclick.net/w/get.media?sid=3D24280&amp;m=3D1&amp;t=
+p=3D5&amp;d=3Ds&amp;c=3D1"=20
+      width=3D728 height=3D90></A></NOSCRIPT>
+      <TABLE border=3D0>
+        <TBODY>
+        <TR>
+          <TD height=3D3></TD></TR></TBODY></TABLE>
+      <TABLE class=3DgoogleBar border=3D0 cellSpacing=3D0 =
+cellPadding=3D0 width=3D800>
+        <TBODY>
+        <TR>
+          <TD width=3D"60%"><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/CatalogJavaAPI.htm">Java by=20
+            API</A>&nbsp;=C2=BB&nbsp;<A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/Catalogjavax.swing=
+.htm">javax.swing</A>&nbsp;=C2=BB&nbsp;<A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabel.htm">JLabel=
+</A></TD>
+          <TD width=3D"10%" align=3Dright>&nbsp;</TD>
+          <TD height=3D"80%" width=3D"30%" align=3Dright>
+            <FORM id=3Dcse-search-box =
+action=3Dhttp://www.google.com/cse>
+            <DIV><INPUT value=3Dpartner-pub-1130008796007602:iri8be-v211 =
+
+            type=3Dhidden name=3Dcx><INPUT value=3DISO-8859-1 =
+type=3Dhidden=20
+            name=3Die><INPUT size=3D15 name=3Dq><INPUT value=3DSearch =
+type=3Dsubmit name=3Dsa></DIV></FORM>
+            <SCRIPT type=3Dtext/javascript=20
+            =
+src=3D"http://www.google.com/cse/brand?form=3Dcse-search-box&amp;lang=3De=
+n"></SCRIPT>
+          </TD></FORM></TD></TR></TBODY></TABLE>
+      <TABLE border=3D0>
+        <TBODY>
+        <TR>
+          <TD height=3D3></TD></TR></TBODY></TABLE>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D650>
+        <TBODY>
+        <TR>
+          <TD align=3Dleft>
+            <SCRIPT type=3Dtext/javascript><!--=0A=
+google_ad_client=3D"pub-1130008796007602";google_ad_width=3D300;google_ad=
+_height=3D250;google_ad_format=3D"300x250_as";google_ad_type=3D"text_imag=
+e";google_ad_channel=3D"";google_color_border=3D"ffffff";google_color_bg=3D=
+"FFFFFF";google_color_link=3D"003399";google_color_url=3D"75a3ed";google_=
+color_text=3D"000000";=0A=
+//--></SCRIPT>
+
+            <SCRIPT type=3Dtext/javascript=20
+            =
+src=3D"http://pagead2.googlesyndication.com/pagead/show_ads.js"></SCRIPT>=
+
+          </TD>
+          <TD align=3Dright>
+            <SCRIPT type=3Dtext/javascript><!--=0A=
+google_ad_client=3D"pub-1130008796007602";google_ad_width=3D300;google_ad=
+_height=3D250;google_ad_format=3D"300x250_as";google_ad_type=3D"text_imag=
+e";google_ad_channel=3D"";google_color_border=3D"ffffff";google_color_bg=3D=
+"FFFFFF";google_color_link=3D"003399";google_color_url=3D"75a3ed";google_=
+color_text=3D"000000";=0A=
+//--></SCRIPT>
+
+            <SCRIPT type=3Dtext/javascript=20
+            =
+src=3D"http://pagead2.googlesyndication.com/pagead/show_ads.js"></SCRIPT>=
+
+          </TD></TR></TBODY></TABLE>
+      <TABLE border=3D0 width=3D800>
+        <TBODY>
+        <TR>
+          <TD class=3DcodeTitle>JLabel: setIcon(Icon icon)</TD></TR>
+        <TR>
+          <TD>
+            <TABLE border=3D0>
+              <TBODY>
+              <TR>
+                <TD height=3D20></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD>
+            <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D3 =
+bgColor=3D#ffffff>
+              <TBODY>
+              <TR><!-- start source code -->
+                <TD vAlign=3Dtop noWrap align=3Dleft>
+                  <DIV class=3DcodeShade><CODE><FONT=20
+                  color=3D#ffffff></FONT><BR><FONT=20
+                  color=3D#7f0055><B>import&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>javax.swing.ImageIcon;</FONT><BR><FONT =
+
+                  color=3D#7f0055><B>import&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>javax.swing.JFrame;</FONT><BR><FONT=20
+                  color=3D#7f0055><B>import&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>javax.swing.JLabel;</FONT><BR><FONT=20
+                  color=3D#7f0055><B>import&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>javax.swing.JPanel;</FONT><BR><FONT=20
+                  color=3D#ffffff></FONT><BR><FONT=20
+                  =
+color=3D#7f0055><B>public&nbsp;class&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>ImageTest&nbsp;</FONT><FONT=20
+                  color=3D#000000>{</FONT><BR><FONT =
+color=3D#ffffff></FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;</FONT><FONT=20
+                  =
+color=3D#7f0055><B>public&nbsp;static&nbsp;</B></FONT><FONT=20
+                  color=3D#7f0055><B>void&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>main</FONT><FONT =
+color=3D#000000>(</FONT><FONT=20
+                  color=3D#000000>String</FONT><FONT=20
+                  color=3D#000000>[]&nbsp;</FONT><FONT=20
+                  color=3D#000000>args</FONT><FONT=20
+                  color=3D#000000>)&nbsp;{</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  =
+color=3D#000000>JPanel&nbsp;panel&nbsp;=3D&nbsp;</FONT><FONT=20
+                  color=3D#7f0055><B>new&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>JPanel</FONT><FONT =
+color=3D#000000>()</FONT><FONT=20
+                  color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  =
+color=3D#000000>ImageLabel&nbsp;label&nbsp;=3D&nbsp;</FONT><FONT=20
+                  color=3D#7f0055><B>new&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>ImageLabel</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT=20
+                  color=3D#7f0055><B>new&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>ImageIcon</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT=20
+                  color=3D#2a00ff>"images/reactor.png"</FONT><FONT=20
+                  color=3D#000000>))</FONT><FONT =
+color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>label.setLocation</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT =
+color=3D#990000>29</FONT><FONT=20
+                  color=3D#000000>,&nbsp;</FONT><FONT =
+color=3D#990000>37</FONT><FONT=20
+                  color=3D#000000>)</FONT><FONT =
+color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>panel.add</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT =
+color=3D#000000>label</FONT><FONT=20
+                  color=3D#000000>)</FONT><FONT =
+color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff></FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  =
+color=3D#000000>JFrame&nbsp;frame&nbsp;=3D&nbsp;</FONT><FONT=20
+                  color=3D#7f0055><B>new&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>JFrame</FONT><FONT =
+color=3D#000000>()</FONT><FONT=20
+                  color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>frame.getContentPane</FONT><FONT=20
+                  color=3D#000000>()</FONT><FONT =
+color=3D#000000>.add</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT =
+color=3D#000000>panel</FONT><FONT=20
+                  color=3D#000000>)</FONT><FONT =
+color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>frame.pack</FONT><FONT=20
+                  color=3D#000000>()</FONT><FONT =
+color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>frame.setVisible</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT=20
+                  color=3D#7f0055><B>true</B></FONT><FONT=20
+                  color=3D#000000>)</FONT><FONT =
+color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>}</FONT><BR><FONT=20
+                  color=3D#000000>}</FONT><BR><FONT =
+color=3D#ffffff></FONT><BR><FONT=20
+                  color=3D#7f0055><B>class&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>ImageLabel&nbsp;</FONT><FONT=20
+                  color=3D#7f0055><B>extends&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>JLabel&nbsp;</FONT><FONT=20
+                  color=3D#000000>{</FONT><BR><FONT =
+color=3D#ffffff></FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#7f0055><B>public&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>ImageLabel</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT=20
+                  color=3D#000000>String&nbsp;img</FONT><FONT=20
+                  color=3D#000000>)&nbsp;{</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#7f0055><B>this</B></FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT=20
+                  color=3D#7f0055><B>new&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>ImageIcon</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT =
+color=3D#000000>img</FONT><FONT=20
+                  color=3D#000000>))</FONT><FONT =
+color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>}</FONT><BR><FONT =
+color=3D#ffffff></FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#7f0055><B>public&nbsp;</B></FONT><FONT=20
+                  color=3D#000000>ImageLabel</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT=20
+                  color=3D#000000>ImageIcon&nbsp;icon</FONT><FONT=20
+                  color=3D#000000>)&nbsp;{</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>setIcon</FONT><FONT =
+color=3D#000000>(</FONT><FONT=20
+                  color=3D#000000>icon</FONT><FONT =
+color=3D#000000>)</FONT><FONT=20
+                  color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  =
+color=3D#3f7f5f>//&nbsp;setMargin(new&nbsp;Insets(0,0,0,0));</FONT><BR><F=
+ONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>setIconTextGap</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT =
+color=3D#990000>0</FONT><FONT=20
+                  color=3D#000000>)</FONT><FONT =
+color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  =
+color=3D#3f7f5f>//&nbsp;setBorderPainted(false);</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>setBorder</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT=20
+                  color=3D#7f0055><B>null</B></FONT><FONT=20
+                  color=3D#000000>)</FONT><FONT =
+color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>setText</FONT><FONT =
+color=3D#000000>(</FONT><FONT=20
+                  color=3D#7f0055><B>null</B></FONT><FONT=20
+                  color=3D#000000>)</FONT><FONT =
+color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>setSize</FONT><FONT =
+color=3D#000000>(</FONT><FONT=20
+                  color=3D#000000>icon.getImage</FONT><FONT=20
+                  color=3D#000000>()</FONT><FONT=20
+                  color=3D#000000>.getWidth</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT=20
+                  color=3D#7f0055><B>null</B></FONT><FONT=20
+                  color=3D#000000>)</FONT><FONT=20
+                  color=3D#000000>,&nbsp;icon.getImage</FONT><FONT=20
+                  color=3D#000000>()</FONT><FONT=20
+                  color=3D#000000>.getHeight</FONT><FONT=20
+                  color=3D#000000>(</FONT><FONT=20
+                  color=3D#7f0055><B>null</B></FONT><FONT=20
+                  color=3D#000000>))</FONT><FONT =
+color=3D#000000>;</FONT><BR><FONT=20
+                  color=3D#ffffff>&nbsp;&nbsp;</FONT><FONT=20
+                  color=3D#000000>}</FONT><BR><FONT =
+color=3D#ffffff></FONT><BR><FONT=20
+                  color=3D#000000>}</FONT><BR><FONT =
+color=3D#ffffff></FONT><BR><FONT=20
+                  =
+color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;</FONT><BR><FONT=20
+                  =
+color=3D#ffffff>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</F=
+ONT><BR><FONT=20
+                  =
+color=3D#ffffff>&nbsp;&nbsp;</FONT></CODE></DIV></TD><!-- end source =
+code --></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD></TD></TR>
+        <TR>
+          <TD class=3DrelatedExample>Related examples in the same=20
+        category</TD></TR></TBODY></TABLE>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D800>
+        <TBODY>
+        <TR class=3Deven>
+          <TD>1.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelBOTTOM.htm">=
+JLabel.BOTTOM</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>2.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelCENTER.htm">=
+JLabel.CENTER</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>3.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelLEFT.htm">JL=
+abel.LEFT</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>4.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelRIGHT.htm">J=
+Label.RIGHT</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>5.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelTOP.htm">JLa=
+bel.TOP</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>6.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/newJLabelIconicon.=
+htm">new=20
+            JLabel(Icon icon)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>7.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/newJLabelIconiinta=
+lignment.htm">new=20
+            JLabel(Icon i, int alignment)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>8.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/newJLabelStringhtm=
+lStringMultilineLabel.htm">new=20
+            JLabel(String htmlString) (Multi-line Label)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>9.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/newJLabelStringtex=
+tinthorizontalAlignment.htm">new=20
+            JLabel(String text, int horizontalAlignment)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>10.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/newJLabelStringtex=
+tIconiconinthorizontalAlignment.htm">new=20
+            JLabel(String text, Icon icon, int =
+horizontalAlignment)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>11.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabeladdMouseMoti=
+onListenerMouseMotionListenerl.htm">JLabel:=20
+            addMouseMotionListener(MouseMotionListener l)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>12.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelgetTransferH=
+andler.htm">JLabel:=20
+            getTransferHandler()</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>13.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetBoderBord=
+erborder.htm">JLabel:=20
+            setBoder(Border border)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>14.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetBoundsint=
+xintyintwidthintheight.htm">JLabel:=20
+            setBounds(int x, int y, int width, int height)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>15.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetDisplayed=
+MnemonicintkeyKeyEventVKU.htm">JLabel:=20
+            setDisplayedMnemonic(int key) (KeyEvent.VK_U)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>16.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetDisplayed=
+MnemonicIndexintindex.htm">JLabel:=20
+            setDisplayedMnemonicIndex(int index)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>17.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetLabelForC=
+omponentc.htm">JLabel:=20
+            setLabelFor(Component c)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>18.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetTextStrin=
+gstr.htm">JLabel:=20
+            setText(String str)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>19.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetHorizonta=
+lTextPositionintalign.htm">JLabel:=20
+            setHorizontalTextPosition(int align)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>20.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetOpaqueboo=
+leanisOpaque.htm">JLabel:=20
+            setOpaque(boolean isOpaque)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>21.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetPreferred=
+SizeDimensionpreferredSize.htm">JLabel:=20
+            setPreferredSize(Dimension preferredSize)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>22.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetToolTipTe=
+xtStringtext.htm">JLabel:=20
+            setToolTipText(String text)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>23.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetVerticalA=
+lignmentintalignment.htm">JLabel:=20
+            setVerticalAlignment(int alignment)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Dodd>
+          <TD>24.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/JLabelsetVerticalT=
+extPositionintalign.htm">JLabel:=20
+            setVerticalTextPosition(int align)</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR>
+        <TR class=3Deven>
+          <TD>25.&nbsp;</TD>
+          <TD align=3Dleft><A=20
+            =
+href=3D"http://www.java2s.com/Code/JavaAPI/javax.swing/extendsJLabel.htm"=
+>extends=20
+            JLabel</A></TD>
+          <TD width=3D32></TD>
+          <TD width=3D200 align=3Dright></TD></TR></TBODY></TABLE>
+      <TABLE border=3D0>
+        <TBODY>
+        <TR>
+          <TD height=3D10></TD></TR></TBODY></TABLE>
+      <SCRIPT type=3Dtext/javascript><!--=0A=
+google_ad_client=3D"pub-1130008796007602";google_ad_width=3D728;google_ad=
+_height=3D90;google_ad_format=3D"728x90_as";google_ad_type=3D"text_image"=
+;google_ad_channel=3D"";google_color_border=3D"ffffff";google_color_bg=3D=
+"ffffff";google_color_link=3D"003399";google_color_text=3D"000000";google=
+_color_url=3D"75a3ed";=0A=
+//--></SCRIPT>
+
+      <SCRIPT type=3Dtext/javascript=20
+      =
+src=3D"http://pagead2.googlesyndication.com/pagead/show_ads.js"></SCRIPT>=
+
+    </TD></TR></TBODY></TABLE></TD></TR></TABLE>
+<CENTER>
+<TABLE border=3D0>
+  <TBODY>
+  <TR align=3Dleft>
+    <TD><A =
+href=3D"http://www.java2s.com/">w__w___w_._j__a__va2__s_.__c_o_m</A>=20
+      | <A href=3D"http://www.java2s.com/html/contact.htm">Contact =
+Us</A></TD></TR>
+  <TR align=3Dleft>
+    <TD class=3DTemplatetext>Copyright 2009 - 12 Demo Source and =
+Support. All=20
+      rights reserved.</TD></TR>
+  <TR align=3Dleft>
+    <TD>All other trademarks are property of their respective=20
+  owners.</TD></TR></TBODY></TABLE></CENTER></BODY></HTML>
+
+------=_NextPart_000_0000_01CBAB4E.4E929860
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://media.fastclick.net/w/get.media?sid=24280&m=1&tp=5&d=s&c=1
+
+R0lGODlh2AJaAPf/AJentSxzsYaYp0djfAFSmbG6xMjO1MTX54fH/wFCewFjulGDrsrS2dXp+me4
+/wE9crXb/uz0+gFKi5eirPPz82J5jJLM/1hyiKq3wztZc7C2ugEtVPb29nKm0zqGyAEqTqy0urrU
+6om86SVIZkep/qOstNnZ2fv7++3x9N3j6AFowvL2+gFFgCtnm3G9/8Xk/uXs8s7OzgFbqrrEzAEx
+XPn8/wN01vX6/rzBxdLS0tXb4QE1YlJthT2a6v///wE6bKfJ5qLT/+rt8HqMm+fz/QEwWUOKxgE2
+ZYaSnQE5arvJ1cvLy3OKnQFOkoOmxWl/ktvg5eXo6y58v+jo6Nrf5KnC11p6lWWq5r7M2H+Upaay
+vHvB/vP09WudyJnD59XV1bXAyYi23luz/8PJzjZUb3aNoeHm66yxtkl5ovf4+bXE0gFZpfL4/qCn
+rrnG0TJUcFKu/wEsUnebugFIhkKZ5Vei5FmVyW6VuHe165vQ//Dy9BtVhpO63BE4Wq7Z/5Ccp5Ci
+s01ogB9DYuHh4SOB0pu1zFCb3GKIqOns7sHDxbi9wdHY3m+DlSFdkuTk5AFVn7TK3AFfsajW/zSM
+2HGGmcPHyff7/kaT1vv9/xpoq7bO4kJgehBruu/v78Xd8s/c6BF50xp3x6+9yePu987V2zlXcdPh
+7fz8/BdLeBZYkqK91IOt0jqS4D1xn+fq7Q41V4KLkwV53wE7b3V9hGVweA+A4j1+t0uQy+Dk50+K
+vZOswd/i5AZLh1FqgMvN0HiGkSlTeBBiqj5cdgEvV7vf/xtAYAlPi+vu8Blvui1Oag1xyBA2WEGh
+9cfLztnb33+QoM7g8LfI2CRPdHiw4AlIf1uBosjIyN3d3ezs7AEzXwE/dgE3ZwE4aL/Iz/3+/9LV
+19vb297v/Z6vvAFvzgErUXiJl6iwuK63wGCg17/Q3+jw9rDR7Umf6hpfmq/BzwQ8bQ1coe32/mev
+7l6OuIeesbPH15nK9As9aDBXeTJZezKBxQErTwErUAEsUAEsUf///yH/C05FVFNDQVBFMi4wAwEC
+AAAh/wtYTVAgRGF0YVhNUDw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVT
+ek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9
+IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAg
+ICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIy
+LXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1w
+TU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8v
+bnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6
+Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRp
+ZDpGQjdGMTE3NDA3MjA2ODExOTZFQ0JCMzkzOTM2MEU1MyIgeG1wTU06RG9jdW1lbnRJRD0ieG1w
+LmRpZDo4M0Q0M0RBOUVGODAxMURGQkUwMUQwQzY1NENFM0RBQSIgeG1wTU06SW5zdGFuY2VJRD0i
+eG1wLmlpZDo4M0Q0M0RBOEVGODAxMURGQkUwMUQwQzY1NENFM0RBQSIgeG1wOkNyZWF0b3JUb29s
+PSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJl
+ZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjQ2RTJEQ0IxNTQyMDY4MTE5N0E1QkUwNjQyRjNCNzM2IiBz
+dFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkZCN0YxMTc0MDcyMDY4MTE5NkVDQkIzOTM5MzYwRTUz
+Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQg
+ZW5kPSJyIj8+Af/+/fz7+vn49/b19PPy8fDv7u3s6+rp6Ofm5eTj4uHg397d3Nva2djX1tXU09LR
+0M/OzczLysnIx8bFxMPCwcC/vr28u7q5uLe2tbSzsrGwr66trKuqqainpqWko6KhoJ+enZybmpmY
+l5aVlJOSkZCPjo2Mi4qJiIeGhYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBf
+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
+aru2PLG2bvu2cPsPAQEAOw==
+
+------=_NextPart_000_0000_01CBAB4E.4E929860
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.java2s.com/style/java2s.css
+
+H1 {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; COLOR: #003399; FONT-SIZE: 75%; =
+FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.codeShade {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; =
+PADDING-BOTTOM: 4px; MARGIN-TOP: 0.5em; PADDING-LEFT: 4px; =
+PADDING-RIGHT: 4px; MARGIN-BOTTOM: 0.5em; MARGIN-LEFT: 0em; BORDER-TOP: =
+#cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 4px
+}
+A {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+FORM {
+	MARGIN: 0px
+}
+BODY {
+	MARGIN: 3px auto 3px 0px; PADDING-LEFT: 0px; WIDTH: 100%; FONT-FAMILY: =
+Arial
+}
+.leftBarTable {
+	BORDER-LEFT: #cccccc 1px solid; BACKGROUND-COLOR: #e6e6e6; WIDTH: =
+140px; FONT-SIZE: 90%; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: =
+#cccccc 1px solid
+}
+.leftLangCell {
+	BORDER-BOTTOM: #cccccc 1px solid
+}
+.leftNewLangCell {
+	BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #ffe6e6
+}
+.leftBarFolderTable {
+	BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: white; FONT-SIZE: =
+90%; BORDER-TOP: #cccccc 1px solid
+}
+.leftNewFolderCell {
+	BACKGROUND-COLOR: #ffe6e6
+}
+.folderGroupTable {
+	BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #e6e6e6; =
+MARGIN-BOTTOM: 0px; FONT-SIZE: 95%
+}
+.folderTitleTable {
+	BORDER-BOTTOM: #cccccc 1px solid; MARGIN-BOTTOM: 0px; FONT-SIZE: 90%; =
+FONT-WEIGHT: bold
+}
+.folderTable {
+	FONT-SIZE: 80%
+}
+#fileElementCount {
+	BORDER-LEFT: #ffffff 5px solid; FONT-SIZE: 75%
+}
+.articleProductElementTitle {
+	BORDER-BOTTOM: #cccccc 2px solid; BORDER-LEFT: #cccccc 1px solid; =
+BACKGROUND-COLOR: #e6e6e6; FONT-SIZE: 110%; BORDER-TOP: #cccccc 1px =
+solid; BORDER-RIGHT: #cccccc 2px solid
+}
+.odd {
+	BACKGROUND-COLOR: #e6e6e6; HEIGHT: 40px
+}
+.even {
+	HEIGHT: 40px
+}
+.relatedExample {
+	BORDER-BOTTOM: #cccccc 1px solid; FONT-SIZE: 170%
+}
+.screenshotIndexTable {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; =
+BACKGROUND-COLOR: #e6e6e6; BORDER-COLLAPSE: collapse; FONT-SIZE: 80%; =
+BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+.screenshotElementTable {
+	BORDER-COLLAPSE: collapse
+}
+.codeTitle {
+	BORDER-BOTTOM: #cccccc 1px solid; FONT-SIZE: 150%
+}
+.tutorialFolderTitle {
+	BORDER-BOTTOM: #cccccc 1px solid; FONT-SIZE: 110%
+}
+.googleBar {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; =
+BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+.tutorialTable {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; =
+BORDER-COLLAPSE: collapse; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: =
+#cccccc 1px solid
+}
+.tutorialTable TD {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; =
+BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+.codeResult {
+	BORDER-BOTTOM: #cccccc 5px solid; BORDER-LEFT: #cccccc 5px solid; =
+BACKGROUND-COLOR: #000000; WIDTH: 800px; FONT-FAMILY: Courier New; =
+COLOR: #ffffff; FONT-SIZE: 100%; BORDER-TOP: #cccccc 5px solid; =
+BORDER-RIGHT: #cccccc 5px solid
+}
+.treeTableLeaf {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; =
+PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: verdana,sans-serif; =
+FONT-SIZE: 13px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.treeTableHeader {
+	BORDER-BOTTOM: #f4f4f4 1px outset; TEXT-ALIGN: left; BORDER-LEFT: =
+#c0c0c0 1px outset; BACKGROUND: #d4d0c8; FONT-SIZE: 70%; BORDER-TOP: =
+#c0c0c0 1px outset; BORDER-RIGHT: #f4f4f4 1px outset
+}
+.treeTableTree {
+	WIDTH: 200px; HEIGHT: 13px; FONT-SIZE: 75%
+}
+.diagramCellClass {
+	BORDER-BOTTOM: #660099 1px solid; BORDER-LEFT: #660099 1px solid; =
+MARGIN: 2px; WIDTH: 500px; FONT-FAMILY: Courier New, monospace; =
+BACKGROUND: #f7e6ff; HEIGHT: 15px; FONT-SIZE: 75%; BORDER-TOP: #660099 =
+1px solid; BORDER-RIGHT: #660099 1px solid
+}
+.diagramCellInterface {
+	BORDER-BOTTOM: #ff9900 1px solid; BORDER-LEFT: #ff9900 1px solid; =
+MARGIN: 2px; WIDTH: 500px; FONT-FAMILY: Courier New, monospace; =
+BACKGROUND: #fff5e6; HEIGHT: 15px; FONT-SIZE: 75%; BORDER-TOP: #ff9900 =
+1px solid; BORDER-RIGHT: #ff9900 1px solid
+}
+.tabContent {
+	BORDER-BOTTOM: #bbbbbb 1px solid; BORDER-LEFT: #bbbbbb 1px solid; =
+BORDER-RIGHT: #bbbbbb 1px solid
+}
+.tabHeader {
+	BORDER-BOTTOM: #bbbbbb 1px solid; TEXT-ALIGN: center; BORDER-LEFT: =
+#bbbbbb 1px solid; BACKGROUND: #e6e6e6; FONT-SIZE: 80%; BORDER-TOP: =
+#bbbbbb 1px solid; BORDER-RIGHT: #bbbbbb 1px solid
+}
+.tabHeaderCurrent {
+	TEXT-ALIGN: center; BORDER-LEFT: #bbbbbb 1px solid; FONT-SIZE: 80%; =
+BORDER-TOP: #bbbbbb 1px solid; BORDER-RIGHT: #bbbbbb 1px solid
+}
+.tabHeaderLast {
+	BORDER-BOTTOM: #bbbbbb 1px solid; BACKGROUND: white
+}
+.tabHeaderDivider {
+	BORDER-BOTTOM: #bbbbbb 1px solid; BACKGROUND: white
+}
+
+------=_NextPart_000_0000_01CBAB4E.4E929860
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://media.fastclick.net/w/get.media?sid=24280&m=1&tp=5&d=j&t=n
+
+{var dz=3Ddocument;=0A=
+dz.writeln("<!-- BEGIN STANDARD TAG - 728 x 90 - ROS: Run of site: =
+Entertainment - DO NOT MODIFY -->");=0A=
+dz.writeln("<IFRAME FRAMEBORDER=3D0 MARGINWIDTH=3D0 MARGINHEIGHT=3D0 =
+SCROLLING=3DNO WIDTH=3D728 HEIGHT=3D90 =
+SRC=3D\"http://ad.media-servers.net/st?ad_type=3Diframe&ad_size=3D728x90&=
+section=3D1417143\"></IFRAME>");=0A=
+dz.writeln("<!-- END TAG -->");}
+------=_NextPart_000_0000_01CBAB4E.4E929860
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.google.com/cse/brand?form=cse-search-box&lang=en
+
+=0A=
+(function() {=0A=
+var f =3D document.getElementById('cse-search-box');=0A=
+if (!f) {=0A=
+f =3D document.getElementById('searchbox_demo');=0A=
+}=0A=
+if (f && f.q) {=0A=
+var q =3D f.q;=0A=
+var n =3D navigator;=0A=
+var l =3D location;=0A=
+var su =3D function () {=0A=
+var u =3D document.createElement('input');=0A=
+var v =3D document.location.toString();=0A=
+var existingSiteurl =3D /(?:[?&]siteurl=3D)([^&#]*)/.exec(v);=0A=
+if (existingSiteurl) {=0A=
+v =3D decodeURI(existingSiteurl[1]);=0A=
+}=0A=
+var delimIndex =3D v.indexOf('://');=0A=
+if (delimIndex >=3D 0) {=0A=
+v =3D v.substring(delimIndex + '://'.length, v.length);=0A=
+}=0A=
+u.name =3D 'siteurl';=0A=
+u.value =3D v;=0A=
+u.type =3D 'hidden';=0A=
+f.appendChild(u);=0A=
+};=0A=
+if (n.appName =3D=3D 'Microsoft Internet Explorer') {=0A=
+var s =3D f.parentNode.childNodes;=0A=
+for (var i =3D 0; i < s.length; i++) {=0A=
+        if (s[i].nodeName =3D=3D 'SCRIPT' &&=0A=
+            s[i].attributes['src'] &&=0A=
+            s[i].attributes['src'].nodeValue =3D=3D =
+unescape('http:\x2F\x2Fwww.google.com\x2Fcse\x2Fbrand?form=3Dcse-search-b=
+ox\x26lang=3Den')) {=0A=
+          su();=0A=
+          break;=0A=
+        }=0A=
+      }=0A=
+    } else {=0A=
+      su();=0A=
+    }=0A=
+=0A=
+    =0A=
+    if (n.platform =3D=3D 'Win32') {=0A=
+      q.style.cssText =3D 'border: 1px solid #7e9db9; padding: 2px;';=0A=
+    }=0A=
+=0A=
+    =0A=
+    if (window.history.navigationMode) {=0A=
+      window.history.navigationMode =3D 'compatible';=0A=
+    }=0A=
+=0A=
+    var b =3D function() {=0A=
+      if (q.value =3D=3D '') {=0A=
+        q.style.background =3D '#FFFFFF =
+url(http:\x2F\x2Fwww.google.com\x2Fcse\x2Fintl\x2Fen\x2Fimages\x2Fgoogle_=
+custom_search_watermark.gif) left no-repeat';=0A=
+      }=0A=
+    };=0A=
+=0A=
+    var f =3D function() {=0A=
+      q.style.background =3D '#ffffff';=0A=
+    };=0A=
+=0A=
+    q.onfocus =3D f;=0A=
+    q.onblur =3D b;=0A=
+=0A=
+    =0A=
+    if (!/[&?]q=3D[^&]/.test(l.search)) {=0A=
+      b();=0A=
+    }=0A=
+  }=0A=
+})();=0A=
+
+------=_NextPart_000_0000_01CBAB4E.4E929860
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pagead2.googlesyndication.com/pagead/show_ads.js
+
+=0A=
+(function(){var g=3Dtrue,h=3Dnull,i=3Dfalse,j=3D(new Date).getTime();var =
+k=3Dthis,aa=3Dfunction(a,b,c){a=3Da.split(".");c=3Dc||k;!(a[0]in =
+c)&&c.execScript&&c.execScript("var "+a[0]);for(var =
+d;a.length&&(d=3Da.shift());)if(!a.length&&b!=3D=3Dundefined)c[d]=3Db;els=
+e c=3Dc[d]?c[d]:c[d]=3D{}},ba=3Dfunction(a){return =
+a.call.apply(a.bind,arguments)},ca=3Dfunction(a,b){var =
+c=3Db||k;if(arguments.length>2){var =
+d=3DArray.prototype.slice.call(arguments,2);return function(){var =
+f=3DArray.prototype.slice.call(arguments);Array.prototype.unshift.apply(f=
+,d);return a.apply(c,f)}}else return function(){return a.apply(c,=0A=
+arguments)}},l=3Dfunction(){l=3DFunction.prototype.bind&&Function.prototy=
+pe.bind.toString().indexOf("native code")!=3D-1?ba:ca;return =
+l.apply(h,arguments)};var n=3Dfunction(a,b){var c=3DparseFloat(a);return =
+isNaN(c)||c>1||c<0?b:c},p=3Dfunction(a,b){if(a=3D=3D"true")return =
+g;if(a=3D=3D"false")return i;return =
+b},da=3D/^([\w-]+\.)*([\w-]{2,})(\:[0-9]+)?$/,fa=3Dfunction(a,b){if(!a)re=
+turn b;var c=3Da.match(da);return c?c[0]:b};var ga=3Dfunction(){return =
+fa("","pagead2.googlesyndication.com")},ha=3Dfunction(){return =
+fa("","pagead2.googlesyndication.com")};var =
+ia=3D/&/g,ja=3D/</g,ka=3D/>/g,la=3D/\"/g,t=3D{"\u0000":"\\0","\u0008":"\\=
+b","\u000c":"\\f","\n":"\\n","\r":"\\r","\t":"\\t","\u000b":"\\x0B",'"':'=
+\\"',"\\":"\\\\"},u=3D{"'":"\\'"},v=3Dfunction(a,b){if(a<b)return-1;else =
+if(a>b)return 1;return 0};var y,A,B,C,D=3Dfunction(){return =
+k.navigator?k.navigator.userAgent:h};C=3DB=3DA=3Dy=3Di;var =
+F;if(F=3DD()){var =
+ma=3Dk.navigator;y=3DF.indexOf("Opera")=3D=3D0;A=3D!y&&F.indexOf("MSIE")!=
+=3D-1;B=3D!y&&F.indexOf("WebKit")!=3D-1;C=3D!y&&!B&&ma.product=3D=3D"Geck=
+o"}var G=3DA,na=3DC,oa=3DB,H;=0A=
+a:{var I=3D"",J;if(y&&k.opera){var K=3Dk.opera.version;I=3Dtypeof =
+K=3D=3D"function"?K():K}else{if(na)J=3D/rv\:([^\);]+)(\)|;)/;else =
+if(G)J=3D/MSIE\s+([^\);]+)(\)|;)/;else =
+if(oa)J=3D/WebKit\/(\S+)/;if(J){var =
+pa=3DJ.exec(D());I=3Dpa?pa[1]:""}}if(G){var =
+L,qa=3Dk.document;L=3Dqa?qa.documentMode:undefined;if(L>parseFloat(I)){H=3D=
+String(L);break a}}H=3DI}=0A=
+var ra=3DH,sa=3D{},M=3Dfunction(a){var b;if(!(b=3Dsa[a])){b=3D0;for(var =
+c=3DString(ra).replace(/^[\s\xa0]+|[\s\xa0]+$/g,"").split("."),d=3DString=
+(a).replace(/^[\s\xa0]+|[\s\xa0]+$/g,"").split("."),f=3DMath.max(c.length=
+,d.length),e=3D0;b=3D=3D0&&e<f;e++){var =
+ua=3Dc[e]||"",s=3Dd[e]||"",m=3DRegExp("(\\d*)(\\D*)","g"),z=3DRegExp("(\\=
+d*)(\\D*)","g");do{var =
+q=3Dm.exec(ua)||["","",""],o=3Dz.exec(s)||["","",""];if(q[0].length=3D=3D=
+0&&o[0].length=3D=3D0)break;b=3Dv(q[1].length=3D=3D0?0:parseInt(q[1],10),=
+o[1].length=3D=3D0?0:parseInt(o[1],10))||v(q[2].length=3D=3D=0A=
+0,o[2].length=3D=3D0)||v(q[2],o[2])}while(b=3D=3D0)}b=3Dsa[a]=3Db>=3D0}re=
+turn b};!G||M("9");G&&M("9");var ta=3Ddocument,N=3Dwindow;ha();var =
+O=3Dfunction(a){return!!a&&typeof =
+a=3D=3D"function"&&!!a.call},va=3Dfunction(a){if(arguments.length<2)retur=
+n a.length;for(var =
+b=3D1,c=3Darguments.length;b<c;++b)a.push(arguments[b]);return =
+a.length};function P(a){return typeof =
+encodeURIComponent=3D=3D"function"?encodeURIComponent(a):escape(a)}functi=
+on wa(a,b){if(a.attachEvent){a.attachEvent("onload",b);return =
+g}if(a.addEventListener){a.addEventListener("load",b,i);return g}return =
+i}=0A=
+var xa=3Dfunction(a){if(!("google_onload_fired"in =
+a)){a.google_onload_fired=3Di;wa(a,function(){a.google_onload_fired=3Dg})=
+}};var ya=3Dn("0",0),za=3Dn("0",0),Aa=3Dn("0",0);var =
+Ba=3Dp("false",i),Ca=3Dp("false",i),Da=3Dp("false",i);aa("google_protectA=
+ndRun",function(a,b,c){a=3Dl(b,k,a);b=3Dwindow.onerror;window.onerror=3Da=
+;try{c()}catch(d){c=3Dd.toString();var =
+f=3D"";if(d.fileName)f=3Dd.fileName;var =
+e=3D-1;if(d.lineNumber)e=3Dd.lineNumber;if(!a(c,f,e))throw =
+d;}window.onerror=3Db},void 0);=0A=
+aa("google_handleError",function(a,b,c,d){if(Math.random()<0.01){a=3D["ht=
+tp://",ga(),"/pagead/gen_204","?id=3Djserror","&jscb=3D",Ba?1:0,"&jscd=3D=
+",Ca?1:0,"&context=3D",P(a),"&msg=3D",P(b),"&file=3D",P(c),"&line=3D",P(d=
+.toString()),"&url=3D",P(ta.URL.substring(0,512)),"&ref=3D",P(ta.referrer=
+.substring(0,512))];a.push(["&client=3D",P(N.google_ad_client),"&format=3D=
+",P(N.google_ad_format),"&slotname=3D",P(N.google_ad_slot),"&output=3D",P=
+(N.google_ad_output),"&ad_type=3D",P(N.google_ad_type)].join(""));a=3Da.j=
+oin("");N.google_image_requests||=0A=
+(N.google_image_requests=3D[]);b=3Dnew =
+Image;b.src=3Da;N.google_image_requests.push(b)}return!Da},void 0);var =
+Ea=3Dfunction(a){try{var =
+b=3Da.google_test;a.google_test=3D!b;if(a.google_test=3D=3D=3D!b){a.googl=
+e_test=3Db;return g}}catch(c){}return =
+i},Q=3Dh,Fa=3Dfunction(){if(!Q){for(var =
+a=3Dwindow;a!=3Da.parent&&Ea(a.parent);)a=3Da.parent;Q=3Da}return Q};var =
+R,S=3Dfunction(a){this.e=3D[];this.b=3Da||window;this.a=3D0;this.c=3Dh},H=
+a=3Dfunction(a,b){this.h=3Da;this.n=3Db};S.prototype.g=3Dfunction(a,b){th=
+is.e.push(new =
+Ha(a,b||this.b));T(this)};S.prototype.i=3Dfunction(a){this.a=3D1;if(a)thi=
+s.c=3Dthis.b.setTimeout(l(this.f,this),a)};S.prototype.f=3Dfunction(){if(=
+this.a=3D=3D1){if(this.c!=3Dh){this.b.clearTimeout(this.c);this.c=3Dh}thi=
+s.a=3D0}T(this)};S.prototype.l=3Dfunction(){return =
+g};S.prototype.nq=3DS.prototype.g;S.prototype.al=3DS.prototype.i;S.protot=
+ype.rl=3DS.prototype.f;=0A=
+S.prototype.sz=3DS.prototype.l;var =
+T=3Dfunction(a){a.b.setTimeout(l(a.m,a),0)};S.prototype.m=3Dfunction(){if=
+(this.a=3D=3D0&&this.e.length){var =
+a=3Dthis.e.shift();this.a=3D2;a.n.setTimeout(l(this.j,this,a),0);T(this)}=
+};S.prototype.j=3Dfunction(a){this.a=3D0;a.h()};=0A=
+var Ia=3Dfunction(a){try{return a.sz()}catch(b){return =
+i}},Ja=3Dfunction(a){return!!a&&(typeof a=3D=3D"object"||typeof =
+a=3D=3D"function")&&Ia(a)&&O(a.nq)&&O(a.al)&&O(a.rl)},Ka=3Dfunction(){if(=
+R&&Ia(R))return R;var a=3DFa(),b=3Da.google_jobrunner;if(Ja(b))return =
+R=3Db;return a.google_jobrunner=3DR=3Dnew S(a)};var U,La;La=3DU=3Di;var =
+V=3DD();if(V)if(V.indexOf("Firefox")!=3D-1)U=3Dg;else =
+if(V.indexOf("Camino")=3D=3D-1)if(!(V.indexOf("iPhone")!=3D-1||V.indexOf(=
+"iPod")!=3D-1))if(V.indexOf("iPad")=3D=3D-1)if(V.indexOf("Android")=3D=3D=
+-1)if(V.indexOf("Chrome")!=3D-1)La=3Dg;var Ma=3DU,Na=3DLa;var =
+Oa=3Dfunction(a,b,c){var d=3D["<iframe"],f;for(f in =
+a)va(d,f+"=3D"+a[f]);d.push('style=3D"left:0;position:absolute;top:0;"');=
+d.push("></iframe>");b=3D"border:none;height:"+c+"px;margin:0;padding:0;p=
+osition:relative;visibility:visible;width:"+b+"px";return['<ins =
+style=3D"display:inline-table;',b,'"><ins id=3D"',a.id+"_anchor",'" =
+style=3D"display:block;',b,'">',d.join(" =
+"),"</ins></ins>"].join("")};var =
+Pa=3Dfunction(){},Ra=3Dfunction(a,b,c){switch(typeof b){case =
+"string":Qa(a,b,c);break;case =
+"number":c.push(isFinite(b)&&!isNaN(b)?b:"null");break;case =
+"boolean":c.push(b);break;case "undefined":c.push("null");break;case =
+"object":if(b=3D=3Dh){c.push("null");break}if(b instanceof Array){var =
+d=3Db.length;c.push("[");for(var =
+f=3D"",e=3D0;e<d;e++){c.push(f);Ra(a,b[e],c);f=3D","}c.push("]");break}c.=
+push("{");d=3D"";for(f in b)if(b.hasOwnProperty(f)){e=3Db[f];if(typeof =
+e!=3D"function"){c.push(d);Qa(a,f,c);c.push(":");Ra(a,=0A=
+e,c);d=3D","}}c.push("}");break;case "function":break;default:throw =
+Error("Unknown type: "+typeof =
+b);}},Sa=3D{'"':'\\"',"\\":"\\\\","/":"\\/","\u0008":"\\b","\u000c":"\\f"=
+,"\n":"\\n","\r":"\\r","\t":"\\t","\u000b":"\\u000b"},Ta=3D/\uffff/.test(=
+"\uffff")?/[\\\"\x00-\x1f\x7f-\uffff]/g:/[\\\"\x00-\x1f\x7f-\xff]/g,Qa=3D=
+function(a,b,c){c.push('"');c.push(b.replace(Ta,function(d){if(d in =
+Sa)return Sa[d];var =
+f=3Dd.charCodeAt(0),e=3D"\\u";if(f<16)e+=3D"000";else =
+if(f<256)e+=3D"00";else if(f<4096)e+=3D"0";return =
+Sa[d]=3De+f.toString(16)}));=0A=
+c.push('"')};var =
+W=3D["google_ad_block","google_ad_channel","google_ad_client","google_ad_=
+format","google_ad_height","google_ad_host","google_ad_host_channel","goo=
+gle_ad_host_tier_id","google_ad_output","google_ad_override","google_ad_r=
+egion","google_ad_section","google_ad_slot","google_ad_type","google_ad_w=
+idth","google_adtest","google_allow_expandable_ads","google_alternate_ad_=
+url","google_alternate_color","google_analytics_domain_name","google_anal=
+ytics_uacct","google_bid","google_city","google_color_bg","google_color_b=
+order",=0A=
+"google_color_line","google_color_link","google_color_text","google_color=
+_url","google_container_id","google_contents","google_country","google_cp=
+m","google_ctr_threshold","google_cust_age","google_cust_ch","google_cust=
+_gender","google_cust_id","google_cust_interests","google_cust_job","goog=
+le_cust_l","google_cust_lh","google_cust_u_url","google_disable_video_aut=
+oplay","google_ed","google_eids","google_enable_osd","google_encoding","g=
+oogle_font_face","google_font_size","google_frame_id","google_gl",=0A=
+"google_hints","google_image_size","google_kw","google_kw_type","google_l=
+anguage","google_max_num_ads","google_max_radlink_len","google_num_radlin=
+ks","google_num_radlinks_per_unit","google_num_slots_to_rotate","google_o=
+nly_ads_with_video","google_only_pyv_ads","google_only_userchoice_ads","g=
+oogle_override_format","google_page_url","google_referrer_url","google_re=
+gion","google_reuse_colors","google_rl_dest_url","google_rl_filtering","g=
+oogle_rl_mode","google_rt","google_safe","google_skip","google_tag_info",=0A=
+"google_targeting","google_ui_features","google_ui_version","google_video=
+_doc_id","google_video_product_type","google_with_pyv_ads"];var =
+Ua=3Dfunction(a){this.b=3Da;a.google_iframe_oncopy||(a.google_iframe_onco=
+py=3D{handlers:{},log:[],img:Math.random()<0.1?[]:h});this.d=3Da.google_i=
+frame_oncopy;a.setTimeout(l(this.k,this),3E4)},Va;var X=3D"var =
+i=3Dthis.id,s=3Dwindow.google_iframe_oncopy,H=3Ds&&s.handlers,h=3DH&&H[i]=
+,w=3Dthis.contentWindow,d;try{d=3Dw.document}catch(e){}if(h&&d&&(!d.body|=
+|!d.body.firstChild)){if(h.call){i+=3D'.call';setTimeout(h,0)}else =
+if(h.match){i+=3D'.nav';w.location.replace(h)}s.log&&s.log.push(i)}";=0A=
+if(/[&<>\"]/.test(X)){if(X.indexOf("&")!=3D-1)X=3DX.replace(ia,"&amp;");i=
+f(X.indexOf("<")!=3D-1)X=3DX.replace(ja,"&lt;");if(X.indexOf(">")!=3D-1)X=
+=3DX.replace(ka,"&gt;");if(X.indexOf('"')!=3D-1)X=3DX.replace(la,"&quot;"=
+)}Va=3DX;Ua.prototype.set=3Dfunction(a,b){this.d.handlers[a]=3Db};=0A=
+Ua.prototype.k=3Dfunction(){if(this.d.img){var =
+a=3Dthis.d.log,b=3Dthis.b.document;if(a.length){b=3D["http://",ga(),"/pag=
+ead/gen_204?id=3Diframecopy&log=3D",P(a.join("-")),"&url=3D",P(b.URL.subs=
+tring(0,512)),"&ref=3D",P(b.referrer.substring(0,512))].join("");a.length=
+=3D0;a=3Dnew Image;this.d.img.push(a);a.src=3Db}}};var =
+Wa=3Dfunction(){var a=3D"script";return["<",a,' =
+src=3D"http://',ha(),"/pagead/js/r20101117/r20101214/show_ads_impl.js",'"=
+></',a,">"].join("")},Xa=3Dfunction(a,b,c,d){return function(){var =
+f=3Di;d&&Ka().al(3E4);try{var =
+e;try{e=3D!!a.document.getElementById(b).contentWindow.document}catch(ua)=
+{e=3Di}if(e){var s=3Da.document.getElementById(b).contentWindow,=0A=
+m=3Ds.document;if(!(m.body&&m.body.firstChild)){m.open();s.google_async_i=
+frame_close=3Dg;m.write(c)}}else{var =
+z=3Da.document.getElementById(b).contentWindow,q;e=3Dc;e=3DString(e);if(e=
+.quote)q=3De.quote();else{s=3D['"'];for(m=3D0;m<e.length;m++){var =
+o=3De.charAt(m),Ga=3Do.charCodeAt(0),ob=3Ds,pb=3Dm+1,ea;if(!(ea=3Dt[o])){=
+var E;if(Ga>31&&Ga<127)E=3Do;else{var r=3Do;if(r in u)E=3Du[r];else if(r =
+in t)E=3Du[r]=3Dt[r];else{var =
+w=3Dr,x=3Dr.charCodeAt(0);if(x>31&&x<127)w=3Dr;else{if(x<256){w=3D"\\x";i=
+f(x<16||x>256)w+=3D"0"}else{w=3D"\\u";if(x<4096)w+=3D=0A=
+"0"}w+=3Dx.toString(16).toUpperCase()}E=3Du[r]=3Dw}}ea=3DE}ob[pb]=3Dea}s.=
+push('"');q=3Ds.join("")}z.location.replace("javascript:"+q)}f=3Dg}catch(=
+wb){z=3DFa().google_jobrunner;Ja(z)&&z.rl()}f&&(new =
+Ua(a)).set(b,Xa(a,b,c,i))}},Ya=3Dfunction(){return ya&&za/ya||typeof =
+window.google_hash_ratio=3D=3D"number"&&window.google_hash_ratio||h};wind=
+ow.google_loader_used=3Dg;if(!window.google_loader_experiment){var =
+Za;a:{var $a=3D["async","block"];if(!(Math.random()<1.0E-4)){var =
+ab=3DMath.random();if(ab<Aa){Za=3D$a[Math.floor(ab/Aa*$a.length)];break =
+a}}Za=3D""}window.google_loader_experiment=3DZa||"none"}var =
+bb;if(bb=3Dwindow.google_enable_async=3D=3D=3Dg||window.google_loader_exp=
+eriment=3D=3D"async")bb=3Dwindow.google_enable_async=3D=3D=3Di?i:(G&&M(7)=
+||Na||Ma&&!!window.document.body)&&!window.google_container_id&&(!window.=
+google_ad_output||window.google_ad_output=3D=3D"html");=0A=
+if(bb){var cb=3Dwindow;if(cb.google_unique_id)++cb.google_unique_id;else =
+cb.google_unique_id=3D1;xa(window);for(var =
+Y=3Dwindow,_script$$inline_209=3D"script",db,Z=3D{allowtransparency:'"tru=
+e"',frameborder:'"0"',height:'"'+Y.google_ad_height+'"',hspace:'"0"',marg=
+inwidth:'"0"',marginheight:'"0"',onload:'"'+Va+'"',scrolling:'"no"',vspac=
+e:'"0"',width:'"'+Y.google_ad_width+'"'},eb=3DY.document,$=3DZ.id,fb=3D0;=
+!$||Y.document.getElementById($);)$=3D"aswift_"+fb++;Z.id=3D$;Z.name=3D$;=
+eb.write(Oa(Z,Y.google_ad_width,Y.google_ad_height));=0A=
+db=3D$;for(var gb,hb=3D[],ib=3D0,jb=3DW.length;ib<jb;ib++){var =
+kb=3DW[ib];if(Y[kb]!=3Dh){var lb;try{var mb=3D[];Ra(new =
+Pa,Y[kb],mb);lb=3Dmb.join("")}catch(nb){}lb&&va(hb,kb,"=3D",lb,";")}}gb=3D=
+hb.join("");for(var qb=3D0,rb=3DW.length;qb<rb;qb++)Y[W[qb]]=3Dh;var =
+sb=3D(new =
+Date).getTime(),tb=3DYa(),ub=3Dwindow.google_loader_experiment,vb=3D["<!d=
+octype =
+html><html><body><",_script$$inline_209,">",gb,"google_show_ads_impl=3Dtr=
+ue;google_unique_id=3D",Y.google_unique_id,';google_async_iframe_id=3D"',=
+db,'";google_start_time=3D',j,";",tb?"google_hash_ratio=3D"+=0A=
+tb+";":"",ub?'google_loader_experiment=3D"'+ub+'";':"","google_bpp=3D",sb=
+>j?sb-j:1,";</",_script$$inline_209,">",Wa(),"</body></html>"].join(""),x=
+b=3DXa(Y,db,vb,g);Ka().nq(xb,void =
+0)}else{window.google_start_time=3Dj;window.google_hash_ratio=3DYa();docu=
+ment.write(Wa())};})();=0A=
+
+------=_NextPart_000_0000_01CBAB4E.4E929860--
